@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(95, 183, 209);
+}
+
+h1 {
+    background-color: rgb(109, 98, 201);
+    color: rgb(59, 38, 6);
+}
+
+h2 {
+    background-color: rgb(7, 66, 100);
+    color: rgb(153, 153, 145);
+}
+
+#first {
+    background-color: rgb(57, 175, 175);
+    color: rgb(22, 22, 128);
+}
+
+#second {
+    background-color: brown;
+    color: rgb(240, 239, 241);
+}
+
+ol {
+    background-color: rgb(72, 10, 216);
+    color: rgb(221, 219, 67);
+}
